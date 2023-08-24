@@ -1,5 +1,5 @@
 # vr-kat-project-game-research
-# KAT Walk C: Motion Capture and Machine Learning to Predict Human Motion
+# KATNN: KAT Walk C: Motion Capture and Machine Learning to Predict Human Motion
 
 ## Description
 
