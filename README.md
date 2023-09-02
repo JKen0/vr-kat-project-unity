@@ -31,7 +31,7 @@ The following steps are necessary to run the game with the Neural Network annd n
 1. Install the research python related code which can be found here: https://github.com/JKen0/vr-kat-project-python
 2. When the research python code is installed, run the Websocket server script to run the local python server which is on port 3003 (make sure no application is occupying port 3003)
 3. When server is running, locate "./game-files/" and run test-kat-project application. This will launch the game. Game should be loaded on your desktop.
-4. On your game application, on the top right you should see a button on the top right which says "MENU" to open the menu. Then click on the "INPUT: SDK" button, click the button so it says "INPUT: NEURALNET". This will change the input system from the SDK implementation to our Neural Network implementation. 
+4. On your game application, on the top right you should see a button on the top right which says "MENU" to open the menu. Then click on the "INPUT: KATCAlgo" button, click the button so it says "INPUT: NEURALNET". This will change the input system from the original KAT C algorithm to our Neural Network implementation. 
 5. Turn on Meta Quest 2, and connect Meta Quest 2 to your desktop via Airlink/CableLink.
 6. When connected, launch to the desktop and on thhe taskbar should be a unity icon which will bring you to launch the game on your Meta Quest.
 7. Done, you should see the game environment in the lens of your Meta Quest 2. 
